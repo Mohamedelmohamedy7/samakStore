@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "437463290429",
+    "project_id": "samak-4950c",
+    "storage_bucket": "samak-4950c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437463290429:android:566640bbb2eca8aebf1054",
+        "android_client_info": {
+          "package_name": "com.Hsolutions.samakdriver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG3RqkyiWFA-B43_3cp75Q-ocxuwqpjTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437463290429:android:c4f12c0ef6813390bf1054",
+        "android_client_info": {
+          "package_name": "com.Hsolutions.samakseller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG3RqkyiWFA-B43_3cp75Q-ocxuwqpjTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437463290429:android:a0e63f23371c9740bf1054",
+        "android_client_info": {
+          "package_name": "com.hsolutions.samak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG3RqkyiWFA-B43_3cp75Q-ocxuwqpjTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
